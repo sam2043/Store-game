@@ -1,0 +1,60 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>stor_steam</RootNamespace>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="image\bell.png" />
+    <None Remove="image\COD-infinite-warfare.jpg" />
+    <None Remove="image\FIFA23-poster.jpeg" />
+    <None Remove="image\Forza-Horizon-5-poster.jpg" />
+    <None Remove="image\friends.png" />
+    <None Remove="image\game-store.png" />
+    <None Remove="image\God-of-War-Ragnarök-poster.jpg" />
+    <None Remove="image\help.png" />
+    <None Remove="image\inbox.png" />
+    <None Remove="image\library.png" />
+    <None Remove="image\loupe.png" />
+    <None Remove="image\NEW.jpg" />
+    <None Remove="image\setting.png" />
+    <None Remove="image\Spider-Man-poster.jpg" />
+    <None Remove="image\steam.png" />
+    <None Remove="image\Stray-gameplay-1.jpg" />
+    <None Remove="image\Stray-gameplay-2.jpg" />
+    <None Remove="image\Stray-poster.jpg" />
+    <None Remove="image\team.png" />
+    <None Remove="NEW.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MaterialDesignThemes" Version="4.9.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="image\bell.png" />
+    <Resource Include="image\COD-infinite-warfare.jpg" />
+    <Resource Include="image\FIFA23-poster.jpeg" />
+    <Resource Include="image\Forza-Horizon-5-poster.jpg" />
+    <Resource Include="image\friends.png" />
+    <Resource Include="image\game-store.png" />
+    <Resource Include="image\God-of-War-Ragnarök-poster.jpg" />
+    <Resource Include="image\help.png" />
+    <Resource Include="image\inbox.png" />
+    <Resource Include="image\library.png" />
+    <Resource Include="image\loupe.png" />
+    <Resource Include="image\NEW.jpg" />
+    <Resource Include="image\setting.png" />
+    <Resource Include="image\Spider-Man-poster.jpg" />
+    <Resource Include="image\steam.png" />
+    <Resource Include="image\Stray-gameplay-1.jpg" />
+    <Resource Include="image\Stray-gameplay-2.jpg" />
+    <Resource Include="image\Stray-poster.jpg" />
+    <Resource Include="image\team.png" />
+    <Resource Include="NEW.jpg" />
+  </ItemGroup>
+
+</Project>
