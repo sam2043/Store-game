@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hIltKPK7vdKnBrXh4n91NuA416ZnnQKRZEIfjXnie4oJHpQZlsB0czXN6khLLsKzXhUZqGOJ8NC5H3VQqrDpnA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lenovo\\source\\repos\\stor steam\\stor steam\\stor steam.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenovo\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}

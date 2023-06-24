@@ -1,0 +1,26 @@
+C:\Users\lenovo\source\repos\stor steam\stor steam\bin\Debug\netcoreapp3.1\stor steam.exe
+C:\Users\lenovo\source\repos\stor steam\stor steam\bin\Debug\netcoreapp3.1\stor steam.deps.json
+C:\Users\lenovo\source\repos\stor steam\stor steam\bin\Debug\netcoreapp3.1\stor steam.runtimeconfig.json
+C:\Users\lenovo\source\repos\stor steam\stor steam\bin\Debug\netcoreapp3.1\stor steam.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\stor steam\stor steam\bin\Debug\netcoreapp3.1\stor steam.dll
+C:\Users\lenovo\source\repos\stor steam\stor steam\bin\Debug\netcoreapp3.1\stor steam.pdb
+C:\Users\lenovo\source\repos\stor steam\stor steam\obj\Debug\netcoreapp3.1\stor steam.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\stor steam\stor steam\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\lenovo\source\repos\stor steam\stor steam\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\lenovo\source\repos\stor steam\stor steam\obj\Debug\netcoreapp3.1\stor steam_MarkupCompile.cache
+C:\Users\lenovo\source\repos\stor steam\stor steam\obj\Debug\netcoreapp3.1\stor steam_MarkupCompile.lref
+C:\Users\lenovo\source\repos\stor steam\stor steam\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\lenovo\source\repos\stor steam\stor steam\obj\Debug\netcoreapp3.1\stor steam.g.resources
+C:\Users\lenovo\source\repos\stor steam\stor steam\obj\Debug\netcoreapp3.1\stor steam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\stor steam\stor steam\obj\Debug\netcoreapp3.1\stor steam.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\stor steam\stor steam\obj\Debug\netcoreapp3.1\stor steam.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\stor steam\stor steam\obj\Debug\netcoreapp3.1\stor steam.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\stor steam\stor steam\obj\Debug\netcoreapp3.1\stor steam.dll
+C:\Users\lenovo\source\repos\stor steam\stor steam\obj\Debug\netcoreapp3.1\stor steam.pdb
+C:\Users\lenovo\source\repos\stor steam\stor steam\obj\Debug\netcoreapp3.1\stor steam.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\stor steam\stor steam\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+C:\Users\lenovo\source\repos\stor steam\stor steam\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+C:\Users\lenovo\source\repos\stor steam\stor steam\bin\Debug\netcoreapp3.1\Microsoft.Xaml.Behaviors.dll
+C:\Users\lenovo\source\repos\stor steam\stor steam\obj\Debug\netcoreapp3.1\stor steam.csproj.CopyComplete
+C:\Users\lenovo\source\repos\stor steam\stor steam\obj\Debug\netcoreapp3.1\Window1.g.cs
+C:\Users\lenovo\source\repos\stor steam\stor steam\obj\Debug\netcoreapp3.1\Window1.baml
